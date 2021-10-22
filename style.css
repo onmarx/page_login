@@ -8,7 +8,7 @@
   color: white;
 }
 body {
-  background-image: linear-gradient(to bottom right, #004e92, #050729);
+  background-image: linear-gradient(to right top, #004e92, #06407a, #083263, #07254c, #051937);
   background-repeat: no-repeat;
   background-attachment: fixed;
   overflow-x: hidden;
@@ -24,7 +24,7 @@ body {
   width: 150px;
 }
 .navbar-container {
-  background-color: #004482;
+  background-color: #02214e;
 }
 .navbar {
   width: 100vw;
