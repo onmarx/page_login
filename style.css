@@ -176,5 +176,8 @@ body {
   );
 }
 .btn:hover {
-  background: #054175;
+  background: #0c67b6;
+  border: 2px solid transparent;
+  border-color: #065eac;
+
 }
